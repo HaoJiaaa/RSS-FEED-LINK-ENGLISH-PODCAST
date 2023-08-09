@@ -1,4 +1,5 @@
-# RSS-FEED-LINK-ENGLISH-PODCAST
+# Voice of the West
+
 Hello everyone!
 
 This is a short list of popular English podcast channels that may not be found in your Apple podcast app.
@@ -18,7 +19,7 @@ You don't have to use any VPN tools to subscribe podcasts or download episodes a
 
 ~~BBC and the Economist have been blocked for quite a while. A VPN tool is mandatory for their podcast channels.~~
 
-Enjoy! ❤️
+Enjoy! ❤️ Let's 收听敌台！
 
 ---
 
