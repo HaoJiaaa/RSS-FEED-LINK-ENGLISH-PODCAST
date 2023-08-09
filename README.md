@@ -1,4 +1,4 @@
-# Voice of the West
+# Voices of the West
 
 Hello everyone!
 
